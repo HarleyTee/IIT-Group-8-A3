@@ -1,2 +1,3 @@
-# Group-8_A3
- Group Repo for A3 IIT group 8
+# Assignment-2-Intro-IIT
+<br>
+Group Repository for Intro to IT Group 8 assignment 3
